@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Can you blow my whistle baby?
 whistle baby?
+Can you blow my whistle baby!!!
+whistle baby!!!
+=======
+>>>>>>> git_2
 Let me know
 Girl I'm gonna show you how to do it
 And we start real slow
